@@ -2,10 +2,10 @@
     //  StoryBrain.swift
     //  Destini-iOS13
     //
-    //  Created by Angela Yu on 08/08/2019.
-    //  Copyright © 2019 The App Brewery. All rights reserved.
+    //  Created by Santiago Jaramillo on 11/18/21.
+    //  Copyright © 2021 The App Brewery. All rights reserved.
     //
-    
+
     import Foundation
     
     struct StoryBrain {
